@@ -17,7 +17,7 @@ I'm a backend developer currently focusing on Golang that loves to write technic
 <b> 🤝To connect with me</b>
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black">](https://t.me/nazarovbahodur)
+[<img src ="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black">](https://t.me/nazarovbahodur)
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://tj.linkedin.com/in/bahodur-nazarov-7a905b26a)
 
 </p>
