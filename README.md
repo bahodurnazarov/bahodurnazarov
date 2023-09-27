@@ -3,7 +3,7 @@
 I'm a backend developer currently focusing on Golang that loves to write technical articles and contributing to open source.
 
 - 👨🏽‍💻 Currently working and growing my skillset in Golang and Docker
-- 🤝 Open for collaborations regarding technical articles and backend/devops projects
+- 🤝 Open for collaborations regarding technical articles and backend projects
 
 
 <b>📕 Latest blog posts</b>
